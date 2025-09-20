@@ -1,0 +1,5 @@
+## Interface: 11200
+## Author: Burakku
+## Title: FunAction
+## SavedVariables: FunActionSaved
+FunAction.lua
